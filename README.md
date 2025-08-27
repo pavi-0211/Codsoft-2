@@ -1,0 +1,2 @@
+# Codsoft-2
+SIMPLE CALCULATOR
